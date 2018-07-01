@@ -1,0 +1,16 @@
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\obj\Debug\MainCorreo.csprojResolveAssemblyReference.cache
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\obj\Debug\FormCorreo.FrmPpal.resources
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\obj\Debug\FormCorreo.Properties.Resources.resources
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\bin\Debug\FormCorreo.exe.config
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\bin\Debug\FormCorreo.exe
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\bin\Debug\FormCorreo.pdb
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\bin\Debug\Entidades.dll
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\bin\Debug\EntidadesAlumno.dll
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\bin\Debug\EntidadesHechas.dll
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\bin\Debug\Entidades.pdb
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\bin\Debug\Entidades.dll.config
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\obj\Debug\FormCorreo.exe
+D:\UTN\Programacion II\TP1\TP4\TP4\FormCorreo\obj\Debug\FormCorreo.pdb
